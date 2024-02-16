@@ -10,4 +10,5 @@ console.log("j");
 console.log("jav");
 console.log("spring app");
 console.log("mdn");
+console.log("data");
 
