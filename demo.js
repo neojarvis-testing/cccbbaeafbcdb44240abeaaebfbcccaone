@@ -4,4 +4,4 @@ console.log("spring boot app");
 console.log("cucumber");
 console.log("testng");
 console.log("ss")
-console.log
+console.log("clog");
